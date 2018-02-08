@@ -5,7 +5,7 @@ Classic hangman game with GUI and music.
 
 | Main menu                                                        |
 |------------------------------------------------------------------|
-| ![Main menu of the game](Media/1.Main_menu.png "Main menu") |
+| ![Main menu of the game](Media/1.Main_menu.png "Main menu")      |
 
 | In game                                                          |
 |------------------------------------------------------------------|
