@@ -13,7 +13,7 @@ Classic hangman game with GUI and music.
 
 | End game                                                         |
 |------------------------------------------------------------------|
-| ![End game](Media/2.End_game.png "End game")                     |
+| ![End game](Media/3.End_game.png "End game")                     |
 
 ## Download
 
